@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Daily Videogame Asset Challenge, for 2017
 I'm challenging myself to create one new video game asset (pixel art, sound effect, short musical passage, 3d model, etc) every day. This repository will contain those assets and chronicle my efforts. This is my new year's resolution, and I've never done anything like this before.
 
